@@ -1,0 +1,2 @@
+# rxjs-bus
+Event Bus
