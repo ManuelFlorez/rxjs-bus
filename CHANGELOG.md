@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.3](https://github.com/ManuelFlorez/rxjs-bus/compare/v0.1.2...v0.1.3) (2025-11-23)
+
+
+### Bug Fixes
+
+* force new release after merge [#3](https://github.com/ManuelFlorez/rxjs-bus/issues/3) ([4da7ff5](https://github.com/ManuelFlorez/rxjs-bus/commit/4da7ff5b906b145f2898873a1f3f59895bb5db18))
+
 ## [0.1.2](https://github.com/ManuelFlorez/rxjs-bus/compare/v0.1.1...v0.1.2) (2025-11-23)
 
 
