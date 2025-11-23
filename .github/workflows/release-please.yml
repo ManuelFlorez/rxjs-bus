@@ -14,9 +14,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: google-github-actions/release-please-action@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Release Please
+        uses: googleapis/release-please-action@v4
         with:
           release-type: node
-          package-name: "@manuelflorezw/rxjs-bus"
-          bump-minor-pre-major: true
-          bump-patch-for-minor-pre-major: true
+          path: .
