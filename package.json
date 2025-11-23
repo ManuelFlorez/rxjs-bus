@@ -1,6 +1,6 @@
 {
   "name": "@manuelflorezw/rxjs-bus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple RxJS event bus",
   "type": "module",
   "main": "./dist/index.js",
