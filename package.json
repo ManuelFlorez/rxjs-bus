@@ -9,7 +9,6 @@
     "build": "tsc",
     "test": "echo \"No test yet\"",
     "test2": "ts-node --project tsconfig.dev.json --esm test/commandBusTest.ts",
-    "release": "standard-version",
     "prepublishOnly": "npm run build"
   },
   "files": [
@@ -30,7 +29,6 @@
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
-    "standard-version": "^9.5.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
