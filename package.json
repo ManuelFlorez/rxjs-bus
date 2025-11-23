@@ -25,7 +25,8 @@
     "url": "https://github.com/ManuelFlorez/rxjs-bus.git"
   },
   "publishConfig": {
-    "@manuelflorezw:registry": "https://npm.pkg.github.com"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
     "rxjs": "^7.8.2"
