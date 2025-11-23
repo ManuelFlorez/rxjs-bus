@@ -24,5 +24,3 @@ jobs:
           token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
           release-type: node
           path: .
-          bump-minor-pre-major: true
-          merge: true
