@@ -1,6 +1,6 @@
 {
   "name": "@manuelflorezw/rxjs-bus",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A simple RxJS event bus",
   "type": "module",
   "main": "./dist/index.js",
@@ -23,7 +23,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ManuelFlorez/rxjs-bus.git"
-},
+  },
   "dependencies": {
     "rxjs": "^7.8.2"
   },
