@@ -20,6 +20,10 @@
     "event"
   ],
   "author": "Manuel Florez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelFlorez/rxjs-bus.git"
+},
   "dependencies": {
     "rxjs": "^7.8.2"
   },
